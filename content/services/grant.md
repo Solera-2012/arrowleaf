@@ -1,6 +1,7 @@
 +++
 title = "Grant Writing and Organizational Development"
 type="block"
+banner="/img/services/grant.jpg"
 +++
 
 
