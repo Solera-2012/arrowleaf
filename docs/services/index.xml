@@ -2,50 +2,50 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Our Services on Balsamroot Consulting</title>
-    <link>/services/</link>
+    <link>/saulgill/services/</link>
     <description>Recent content in Our Services on Balsamroot Consulting</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="/services/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/saulgill/services/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Assessment and Planning</title>
-      <link>/services/planning/</link>
+      <link>/saulgill/services/planning/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/services/planning/</guid>
+      <guid>/saulgill/services/planning/</guid>
       <description>Our team can help you assess the needs of your service population and plan and evaluate health, education, and community interventions. We can determine the local and regional economic impacts of an activity to evaluate its outcomes or understand its feasibility.
  Needs assessments, gap analyses, feasibility studies, and strategic plans Community and public health assessments and planning Economic assessments and modeling  </description>
     </item>
     
     <item>
       <title>Grant Writing and Organizational Development</title>
-      <link>/services/grant/</link>
+      <link>/saulgill/services/grant/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/services/grant/</guid>
+      <guid>/saulgill/services/grant/</guid>
       <description>We work on all parts of the funding puzzle, including funder research, campaign planning, and proposal writing. We can help with strategic planning and support documents - anything you need to strengthen your organization and be competitive.
  Foundation, government, and corporate funders Funding plans and grant-based campaigns Strategic plans, annual reports, outreach and marketing materials Project and program evaluation  </description>
     </item>
     
     <item>
       <title>Research and Data Collection</title>
-      <link>/services/data/</link>
+      <link>/saulgill/services/data/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/services/data/</guid>
+      <guid>/saulgill/services/data/</guid>
       <description>We collect data in English and Spanish with surveys, interviews, and focus groups, and we analyze data using quantitative and qualitative approaches.
  Web-based indicator tracking, including health indicators Feasibility studies and business plans Qualitative (narrative) and quantitative data analysis Data management Indicator identification, prioritization, and performance measure development  </description>
     </item>
     
     <item>
       <title>Writing and Editing</title>
-      <link>/services/writing/</link>
+      <link>/saulgill/services/writing/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/services/writing/</guid>
+      <guid>/saulgill/services/writing/</guid>
       <description>We can help you research, write, and produce a wide variety of documents, including proposals, reports, plans, marketing materials, curriculum, and communications.
  Writing and editing of all types in English and Spanish Presentation of data Coaching and training Social marketing  </description>
     </item>

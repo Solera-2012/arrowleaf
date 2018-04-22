@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Our Team on Balsamroot Consulting</title>
-    <link>/team/</link>
+    <link>/saulgill/team/</link>
     <description>Recent content in Our Team on Balsamroot Consulting</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="/team/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/saulgill/team/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Darin Saul, PhD</title>
-      <link>/team/darin/</link>
+      <link>/saulgill/team/darin/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/team/darin/</guid>
+      <guid>/saulgill/team/darin/</guid>
       <description>Darin has dedicated his 23-year career to addressing the needs of people, communities, and the environment. Darin has a doctorate in English and has written over 160 successful proposals to foundations, corporations, and government funders. Darin&amp;rsquo;s experience includes owning and directing Ecovista, an environmental research and planning company that specialized in watershed assessment and planning. He also co-founded and was later the executive director of the Groundworks Institute, a nonprofit that provided environmental education programs and coordinated stream and wetland restoration projects.</description>
     </item>
     
     <item>
       <title>Soren Newman, PhD</title>
-      <link>/team/soren/</link>
+      <link>/saulgill/team/soren/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/team/soren/</guid>
+      <guid>/saulgill/team/soren/</guid>
       <description>A social scientist by training, Soren collects meaningful data that empowers organizations to affect change. Soren is skilled in interview, focus group, and survey methodologies as well as participatory research. She also has experience in grant development, project evaluation, and strategic planning. Soren was raised in a rural community in northcentral Idaho where her passion for and commitment to the diverse peoples and landscapes of the Northwest grew. Her interest in understanding how conservation, economic, and social objectives can simultaneously be achieved motivated her to earn a doctoral degree in Natural Resource and Environmental Science from Washington State University.</description>
     </item>
     
