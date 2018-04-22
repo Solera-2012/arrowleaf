@@ -1,4 +1,4 @@
-baseurl = "https://saulgill.com"
+baseurl = "/saulgill/"
 title = "Balsamroot Consulting"
 theme = "hugo-universal-theme"
 themesDir = "themes"
