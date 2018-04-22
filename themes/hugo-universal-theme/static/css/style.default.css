@@ -789,7 +789,18 @@ fieldset[disabled] .btn-template-primary.active {
   height: 100%;
   position: relative;
 }
+
 .jumbotron {
+  padding: 30px;
+  margin-bottom: 0;
+  position: relative;
+  background: url('/img/site/tree.png') center center repeat;
+  background-size: cover;
+  -webkit-transition: all 0.2s ease-out;
+  -moz-transition: all 0.2s ease-out;
+  transition: all 0.2s ease-out;
+}
+.jumboBACKUP {
   padding: 30px;
   margin-bottom: 0;
   position: relative;
@@ -1142,6 +1153,15 @@ fieldset[disabled] .btn-template-primary.active {
   filter: alpha(opacity=100);
 }
 .home-carousel {
+  position: relative;
+  background: url('/img/site/balsam-flowers.png') center center no-repeat;
+  background-size: cover;
+  -webkit-transition: all 0.2s ease-out;
+  -moz-transition: all 0.2s ease-out;
+  transition: all 0.2s ease-out;
+}
+
+.home-caroBACKUP {
   position: relative;
   background: url('../img/photogrid.jpg') center center repeat;
   background-size: cover;
@@ -1774,7 +1794,7 @@ fieldset[disabled] .btn-template-primary.active {
   background-size: cover;
 }
 .bar.background-image-fixed-2 {
-  background: url('../img/fixed-background-2.jpg') center top no-repeat;
+  background: url('/img/site/balsam-bunch.png') center top no-repeat;
   background-attachment: fixed;
   background-size: cover;
 }

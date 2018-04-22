@@ -20,12 +20,9 @@
                 <div class="row">
                     <!-- *** LEFT COLUMN *** -->
 
-
-        This content list dugh
                     <div class="col-md-9" id="blog-listing-medium">
                         
                         {{ .Content }}
-
 
                         {{ $paginator := .Paginate (where .Data.Pages "Type" "blog") }}
                         {{ range $paginator.Pages }}

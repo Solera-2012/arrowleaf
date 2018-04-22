@@ -73,7 +73,7 @@ paginate = 10
     copyright = "Copyright (c) 2015 - 2018, Arrowleaf Balsamroot; all rights reserved."
 
     # Format dates with Go's time formatting
-    date_format = "January 2, 2006"
+    date_format = "January, 2006"
 
     logo = "img/logo.png"
     address = """<p><strong>Darin Saul</strong>
@@ -141,5 +141,5 @@ paginate = 10
 
 [params.recent_posts]
     enable = true
-    title = "Recent Projects"
+    title = "Past Projects"
     subtitle = "Check out a few of our recent projects. No matter what the project, we can bring the necessary expertise needed. We draw from our many friends at WSU and UI and our extensive network of experts with whom we have collaborated."
