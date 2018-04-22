@@ -24,12 +24,12 @@ paginate = 10
 
 [[menu.main]]
     name = "Services"
-    url  = "/services"
+    url  = "/services/"
     weight = 2
 
 [[menu.main]]
     name = "Team"
-    url  = "/team"
+    url  = "/team/"
     weight = 3
 
 [[menu.main]]
@@ -118,21 +118,21 @@ paginate = 10
 [params.testimonials]
     enable = true
     # All testimonials are defined in their own files. You can find example items
-    # at 'exampleSite/data/testimonials'.
+    # at 'exampleSite/data/team'.
     # For more informtion take a look at the README.
-    title = "Testimonials"
-    subtitle = "We have worked with many clients and we always like to hear they come out from the cooperation happy and satisfied. Have a look what our clients said about us."
+    title = "Our Team"
+    subtitle = "No matter what the project, we can bring the necessary expertise needed. We draw from our many friends at WSU and UI and our extensive network of experts with whom we have collaborated."
 
 [params.see_more]
     enable = true
     icon = "fa fa-file-code-o"
-    title = "Do you want to see more?"
-    subtitle = "We have prepared for you more than 40 different HTML pages, including 5 variations of homepage."
-    link_url = "#"
-    link_text = "Check other homepages"
+    title = "Ready to start a conversation?"
+    subtitle = ""
+    link_url = "/contact"
+    link_text = "Get in touch"
 
 [params.clients]
-    enable = true
+    enable = false
     # All clients are defined in their own files. You can find example items
     # at 'exampleSite/data/clients'.
     # For more informtion take a look at the README.
@@ -141,5 +141,5 @@ paginate = 10
 
 [params.recent_posts]
     enable = true
-    title = "From our blog"
-    subtitle = "HERE SI A RECENT POST???Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo."
+    title = "Recent Projects"
+    subtitle = "Check out a few of our recent projects. No matter what the project, we can bring the necessary expertise needed. We draw from our many friends at WSU and UI and our extensive network of experts with whom we have collaborated."

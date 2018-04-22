@@ -20,55 +20,31 @@
                 <div class="row">
                     <!-- *** LEFT COLUMN *** -->
 
-
-        This content list dugh
                     <div class="col-md-9" id="blog-listing-medium">
                         
                         {{ .Content }}
 
-
-                        {{ $paginator := .Paginate (where .Data.Pages "Type" "blog") }}
+                       
+                        {{ $paginator := .Paginate (where .Data.Pages "Type" "block") }}
                         {{ range $paginator.Pages }}
+                        <hr />
                         <section class="post">
                             <div class="row">
                                 <div class="col-md-4">
-                                  <div class="image">
-                                      <a href="{{ .Permalink }}">
-                                          {{ if .Params.banner }}
-                                          <img src="{{ .Site.BaseURL}}{{ .Params.banner }}" class="img-responsive" alt="">
-                                          {{ else }}
-                                          <img src="{{ .Site.BaseURL}}img/placeholder.png" class="img-responsive" alt="">
-                                          {{ end }}
-                                      </a>
+                                  <div class="image">    
+                                    <img src="{{ .Site.BaseURL}}{{ .Params.banner }}" class="img-responsive" alt="">
                                   </div>
                                 </div>
                                 <div class="col-md-8">
-                                    <h2><a href="{{ .Permalink }}">{{ .Title }}</a></h2>
-                                    <div class="clearfix">
-                                        <p class="author-category">
-                                          {{ if isset .Params "author" }}
-                                          {{ i18n "authorBy" }} <a href="#">{{ .Params.author }}</a>
-                                          {{ end }}
-                                          {{ if isset .Params "categories" }}
-                                          {{ if gt (len .Params.categories) 0 }}
-                                          in <a href="{{ $.Site.BaseURL }}categories/{{ index .Params.categories 0 | urlize | lower }}">{{ index .Params.categories 0 }}</a>
-                                          {{ end }}
-                                          {{ end }}
-
-                                        </p>
-                                        <p class="date-comments">
-                                            <a href="{{ .Permalink }}"><i class="fa fa-calendar-o"></i> {{ .Date.Format .Site.Params.date_format }}</a>
-                                        </p>
-                                    </div>
+                                    <h2>{{ .Title }}</h2>
                                     <p class="intro">{{ .Summary }}</p>
-                                    <p class="read-more"><a href="{{ .Permalink }}" class="btn btn-template-main">{{ i18n "continueReading" }}</a>
-                                    </p>
                                 </div>
                             </div>
                         </section>
                         {{ end }}
+                        <hr />
 
-                        <ul class="pager">
+                        <!-- <ul class="pager">
                             {{ if .Paginator.HasPrev }}
                             <li class="previous"><a href="{{ .Site.BaseURL }}{{ .Paginator.Prev.URL }}">&larr; {{ i18n "newer" }}</a></li>
                             {{ else }}
@@ -80,7 +56,7 @@
                             {{ else }}
                             <li class="next disabled"><a href="#">{{ i18n "older" }} &rarr;</a></li>
                             {{ end }}
-                        </ul>
+                        </ul> -->
                     </div>
                     <!-- /.col-md-9 -->
 

@@ -100,7 +100,7 @@ function sliders () {
       itemsMobile: [480, 1]
     })
 
-    $('.testimonials').owlCarousel({
+    $('.team').owlCarousel({
       items: 4,
       itemsDesktopSmall: [990, 3],
       itemsTablet: [768, 2],

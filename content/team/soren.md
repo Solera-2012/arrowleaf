@@ -1,0 +1,7 @@
++++
+title = "Soren Newman, PhD"
+type="block"
+banner="/img/team/soren.jpg"
++++
+
+A social scientist by training, Soren collects meaningful data that empowers organizations to affect change. Soren is skilled in interview, focus group, and survey methodologies as well as participatory research. She also has experience in grant development, project evaluation, and strategic planning. Soren was raised in a rural community in northcentral Idaho where her passion for and commitment to the diverse peoples and landscapes of the Northwest grew. Her interest in understanding how conservation, economic, and social objectives can simultaneously be achieved motivated her to earn a doctoral degree in Natural Resource and Environmental Science from Washington State University. She has collaborated on a variety of successful projects ranging from exploring communities capacity to adapt to environmental hazards to engaging stakeholders in wood-based bioenergy development, helping local livestock producers gather feasibility study data, assessing local and regional food systems, and facilitating strategic planning with nonprofit organizations. Soren has bachelor's degrees in Spanish and Sociology from the University of Idaho and a master's degree in Sociology from Washington State University.
