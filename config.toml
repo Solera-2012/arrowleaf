@@ -9,6 +9,7 @@ defaultContentLanguage = "en"
 disqusShortname = ""
 # Enable Google Analytics by entering your tracking code
 googleAnalytics = ""
+publishDir = "docs"
 
 # Define the number of posts per page
 paginate = 10
