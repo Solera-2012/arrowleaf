@@ -1,7 +1,7 @@
 +++
 title = "Research and Data Collection"
 type="block"
-banner="/img/services/data.jpg"
+banner="img/services/data.jpg"
 +++
 
 We collect data in English and Spanish with surveys, interviews, and focus groups, and we analyze data using quantitative and qualitative approaches.

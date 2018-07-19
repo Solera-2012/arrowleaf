@@ -1,7 +1,7 @@
 +++
 title = "Darin Saul, PhD"
 type="block"
-banner="/img/team/darin.jpg"
+banner="img/team/darin.jpg"
 +++
 
 Darin has dedicated his 23-year career to addressing the needs of people, communities, and the environment. Darin has a doctorate in English and has written over 160 successful proposals to foundations, corporations, and government funders. Darin's experience includes owning and directing Ecovista, an environmental research and planning company that specialized in watershed assessment and planning. He also co-founded and was later the executive director of the Groundworks Institute, a nonprofit that provided environmental education programs and coordinated stream and wetland restoration projects. At the University of Idaho (UI), Darin worked as the Sustainability Director and helped setup the UI Sustainability Center, a student-led center that runs social marketing and service learning activities. As the Associate Director of the UI Office of Community Partnerships, Darin worked with nonprofits and community groups to prioritize needs, connect them to resources and expertise, and collaborate on grant proposals. Darin is currently the Director of Proposal Development Services in the College of Agricultural and Life Sciences, where he collaborates with faculty and community partners to develop large grant proposals. In recent years, he was a Senior Consultant with Bright Star Grant Consultants, helping nonprofit groups develop funding plans and write proposals. He launched Saulgill LLC in 2014.
