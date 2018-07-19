@@ -3,85 +3,85 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/saulgill/blog/2017/12/17/winery/</loc>
+    <loc>/blog/2017/12/17/winery/</loc>
     <lastmod>2017-12-17T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/saulgill/blog/2017/09/17/needs-assessment/</loc>
+    <loc>/blog/2017/09/17/needs-assessment/</loc>
     <lastmod>2017-09-17T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/saulgill/blog/2017/06/01/evaluation-after-school/</loc>
+    <loc>/blog/2017/06/01/evaluation-after-school/</loc>
     <lastmod>2017-06-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/saulgill/blog/2016/09/17/proposal-clinic/</loc>
+    <loc>/blog/2016/09/17/proposal-clinic/</loc>
     <lastmod>2016-09-17T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/saulgill/blog/2015/11/11/another-project/</loc>
+    <loc>/blog/2015/11/11/another-project/</loc>
     <lastmod>2015-11-11T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/saulgill/services/planning/</loc>
-  </url>
-  
-  <url>
-    <loc>/saulgill/</loc>
+    <loc>/</loc>
     <lastmod>2017-12-17T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/saulgill/categories/</loc>
+    <loc>/services/planning/</loc>
+  </url>
+  
+  <url>
+    <loc>/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/saulgill/contact/</loc>
+    <loc>/contact/</loc>
   </url>
   
   <url>
-    <loc>/saulgill/team/darin/</loc>
+    <loc>/team/darin/</loc>
   </url>
   
   <url>
-    <loc>/saulgill/services/grant/</loc>
+    <loc>/services/grant/</loc>
   </url>
   
   <url>
-    <loc>/saulgill/services/</loc>
+    <loc>/services/</loc>
   </url>
   
   <url>
-    <loc>/saulgill/team/</loc>
+    <loc>/team/</loc>
   </url>
   
   <url>
-    <loc>/saulgill/blog/</loc>
+    <loc>/blog/</loc>
     <lastmod>2017-12-17T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/saulgill/services/data/</loc>
+    <loc>/services/data/</loc>
   </url>
   
   <url>
-    <loc>/saulgill/team/soren/</loc>
+    <loc>/team/soren/</loc>
   </url>
   
   <url>
-    <loc>/saulgill/tags/</loc>
+    <loc>/tags/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/saulgill/services/writing/</loc>
+    <loc>/services/writing/</loc>
   </url>
   
 </urlset>

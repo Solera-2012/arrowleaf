@@ -1,58 +1,58 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Past Projects on Balsamroot Consulting</title>
-    <link>/saulgill/blog/</link>
-    <description>Recent content in Past Projects on Balsamroot Consulting</description>
+    <title>Past Projects on Arrowleaf Consulting</title>
+    <link>/blog/</link>
+    <description>Recent content in Past Projects on Arrowleaf Consulting</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 17 Dec 2017 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/saulgill/blog/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/blog/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Feasibility study for Nez Perce Tribe</title>
-      <link>/saulgill/blog/2017/12/17/winery/</link>
+      <link>/blog/2017/12/17/winery/</link>
       <pubDate>Sun, 17 Dec 2017 00:00:00 +0000</pubDate>
       
-      <guid>/saulgill/blog/2017/12/17/winery/</guid>
+      <guid>/blog/2017/12/17/winery/</guid>
       <description>Completed a feasibility study for a winery for the Nez Pearc Tribe.</description>
     </item>
     
     <item>
       <title>Community needs assessment for family health clinic</title>
-      <link>/saulgill/blog/2017/09/17/needs-assessment/</link>
+      <link>/blog/2017/09/17/needs-assessment/</link>
       <pubDate>Sun, 17 Sep 2017 00:00:00 +0000</pubDate>
       
-      <guid>/saulgill/blog/2017/09/17/needs-assessment/</guid>
+      <guid>/blog/2017/09/17/needs-assessment/</guid>
       <description>Community Needs assessment for the community council of idaho&amp;rsquo;s community family health clinic</description>
     </item>
     
     <item>
       <title>Evaluation of after school program</title>
-      <link>/saulgill/blog/2017/06/01/evaluation-after-school/</link>
+      <link>/blog/2017/06/01/evaluation-after-school/</link>
       <pubDate>Thu, 01 Jun 2017 00:00:00 +0000</pubDate>
       
-      <guid>/saulgill/blog/2017/06/01/evaluation-after-school/</guid>
+      <guid>/blog/2017/06/01/evaluation-after-school/</guid>
       <description>We completed a evaluation of 21st century learning community after school program.</description>
     </item>
     
     <item>
       <title>Proposal for health clinic building</title>
-      <link>/saulgill/blog/2016/09/17/proposal-clinic/</link>
+      <link>/blog/2016/09/17/proposal-clinic/</link>
       <pubDate>Sat, 17 Sep 2016 00:00:00 +0000</pubDate>
       
-      <guid>/saulgill/blog/2016/09/17/proposal-clinic/</guid>
+      <guid>/blog/2016/09/17/proposal-clinic/</guid>
       <description>Wrote a proposal for the building for Community Family Health Clinic for the Commmunity Council of Idaho and was funded for $300,000.</description>
     </item>
     
     <item>
       <title>Strategic plan</title>
-      <link>/saulgill/blog/2015/11/11/another-project/</link>
+      <link>/blog/2015/11/11/another-project/</link>
       <pubDate>Wed, 11 Nov 2015 00:00:00 +0000</pubDate>
       
-      <guid>/saulgill/blog/2015/11/11/another-project/</guid>
+      <guid>/blog/2015/11/11/another-project/</guid>
       <description>Wrote a strategic plan for the Community Council of Idaho, the largest nonprofit in the state of idaho serviceing latinX communites.</description>
     </item>
     
