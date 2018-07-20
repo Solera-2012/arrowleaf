@@ -143,4 +143,4 @@ paginate = 10
 [params.recent_posts]
     enable = true
     title = "Past Projects"
-    subtitle = "Check out a few of our recent projects. No matter what the project, we can bring the necessary expertise needed. We draw from our many friends at WSU and UI and our extensive network of experts with whom we have collaborated."
+    subtitle = "Check out a few of our recent projects. We can bring the necessary expertise needed. We draw from our many friends at WSU and UI and our extensive network of experts."

@@ -6,4 +6,4 @@ banner = "img/banners/banner-2.jpg"
 
 
 
-We completed a evaluation of 21st century learning community after school program.
+We completed an evaluation of 21st century learning community after school program.
